@@ -21,5 +21,5 @@ Each script has been set in C# namespace coresponding to it's place in project s
 ### Features
 
 - **Basic gameplay of "Arkanoid" game** - one paddle, one ball and set of boxes to destroy with ball.
-- **Save system** - you can find save button after clicking in ESC button during Gameplay (file in json format).
+- **Save system** - you can find save button after ESC click during Gameplay (file in json format).
 - **Multiply controls** - you can control your paddle using WASD/Arrows or with your mouse.
